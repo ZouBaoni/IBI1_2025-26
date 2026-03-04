@@ -1,3 +1,9 @@
 During this course, I have learnt the principles of version control and managed projects with git and github.
 
-Overall, the practical process is successful, but I still came across with a problem. It didn't work when I pushed the local edition to the GitHub. It was because I tried to edit the content of the files on the GitHub directly, so the remote contains work that I do not have locally. Therefore I forked and cloned the original folder and tried to push it again. This time it worked.
+Overall, the practical process is successful, but I still came across with a problem. 
+
+It didn't work when I pushed the local edition to the GitHub. 
+
+It was because I tried to edit the content of the files on the GitHub directly, so the remote contains work that I do not have locally. 
+
+Therefore I forked and cloned the original folder and tried to push it again. This time it worked.
