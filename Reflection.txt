@@ -1,5 +1,3 @@
-This is an example file for reflection in IBI1_2025-26.
+During this course, I have learnt the principles of version control and managed projects with git and github.
 
-During this course, I have learnt version control, how to navigate Unix-like systems and how to write simple programs in Python.
-
-I am going to edit this file to show changes
+Overall, the practical process is successful, but I still came across with a problem. It didn't work when I pushed the local edition to the GitHub. It was because I tried to edit the content of the files on the GitHub directly, so the remote contains work that I do not have locally. Therefore I forked and cloned the original folder and tried to push it again. This time it worked.
