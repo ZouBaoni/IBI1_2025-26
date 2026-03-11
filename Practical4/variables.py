@@ -11,8 +11,10 @@ print ("e = " + str(e))
 #compare d to e and output
 if d > e:
     print ("d > e") 
+elif d < e:
+    print ("d < e")
 else:
-    print ("d <= e")
+    print ("d = e")
 
 #d is larger
 #the population growth is decelerating in Scotland
