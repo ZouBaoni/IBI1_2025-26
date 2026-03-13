@@ -2,7 +2,8 @@
 #define and initialise variables: age, weight, gender, creatine
 #define: valid = True
 #check the inputs: if any variables do not meet the requirements, then let valid = False
-#if valid = True
+#meanwhile, use a string "error" to record which variable is wrong
+#if valid = True: 
 #   calculate CrCl
 #   print
 #else
