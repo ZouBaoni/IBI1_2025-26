@@ -37,7 +37,7 @@ import numpy as np
 countries = list(pop_change.keys())
 changes = list(pop_change.values())
 #Create the bar chart (use countries, changes; set width, color)
-bars = plt.bar(countries, changes, width=0.6, color='skyblue')
+bars = plt.bar(countries, changes, width=0.6, color=['lightgreen','lightcoral','lightcoral','lightgreen','lightgreen'])
 plt.title("The population change for each country") #add title
 plt.xlabel("Country") #add x label
 plt.ylabel("Absolute population change (Million)") #add y label
