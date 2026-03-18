@@ -1,7 +1,7 @@
 #Create a list to store all the heart rates
 heart_rates = [72, 60, 126, 85, 90, 59, 76, 131, 88, 121, 64]
 total_number = len(heart_rates) #get the number of patients
-avg_rate = sum(heart_rates) / total_number #calculate the average rate
+avg_rate = round(sum(heart_rates) / total_number, 2) #calculate the average rate
 print(f"There are {total_number} patients in the dataset. The mean heart rate is {avg_rate}.") #output
 
 low = 0 #store the number of patients whose heart rate is low
