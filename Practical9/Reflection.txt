@@ -1,0 +1,12 @@
+This practical about infectious disease modelling helped me understand how to translate real-world problems into computer simulations. 
+I learned the basic logic of the SIR model, including how susceptible people become infected and how infected people recover. 
+I also understood how vaccination can reduce the spread of disease and achieve herd immunity.
+
+The spatial SIR model was the most challenging part, 
+especially simulating the spread between neighbouring cells in a 2D grid. 
+I encountered some errors, such as negative population numbers and plotting problems, 
+but I fixed them by adding condition checks and improving the code structure.
+
+Through this practical, I became more familiar with numpy and matplotlib, 
+and I realised how computer programming can be used to simulate biological and medical problems. 
+This was a very meaningful and useful programming exercise.
