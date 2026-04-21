@@ -1,0 +1,11 @@
+Question: Did the DALYs in China and the UK become more similar or less similar over time?
+
+The line number for where the code to answer my question starts: line 55
+
+Discuss the results:
+From Figure (a), we can see that China’s DALYs are consistently higher than those of the United Kingdom.
+Both China and the UK show a gradually decreasing trend in DALYs over time, and the decline in China is much larger.
+Figure (b) demonstrates that the gap shows a continuous downward trend, indicating that the DALYs difference between China and the UK has narrowed year by year. 
+This means the disease burden in China has decreased faster than in the UK.
+Therefore, the DALYs in China and the UK become more similar over time.
+The result is as expected, because China’s public health, medical care, and quality of life have improved significantly over the 30-year period.
