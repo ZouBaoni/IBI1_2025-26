@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Switch the working directory to where the csv file is located
-os.chdir("c:/Users/闪光/Desktop/Y1-B/IBI/Practical/IBI1_2025-26/Practical10")
+os.chdir("c:/Users/闪光/Desktop/Y1-B/IBI/Code Portfolio ICA/IBI1_2025-26/Practical10")
 # Read the data from the csv file
 dalys_data = pd.read_csv("dalys-rate-from-all-causes.csv")
 
@@ -22,7 +22,7 @@ The year with the highest DALYs in Afghanistan is 1998.
 
 # Show all years of Zimbabwe
 zimbabwe = dalys_data[dalys_data["Entity"] == "Zimbabwe"]
-print(zimbabwe[["Year"]])
+print(zimbabwe[["Year", "DALYs"]])
 # Find the first and last year of Zimbabwe
 zim_first_year = zimbabwe["Year"].min()
 zim_last_year = zimbabwe["Year"].max()
