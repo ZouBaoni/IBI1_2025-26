@@ -92,8 +92,7 @@ def draw_pie_chart(codon_count, target_stop):
         labels=labels,               
         labeldistance=1.05,          
         autopct='%1.1f%%',           
-        pctdistance=0.75,            
-        #rotatelabels=True,           
+        pctdistance=0.75,                      
         textprops={'fontsize': 9}   
     )
 
